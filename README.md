@@ -19,18 +19,17 @@ You choose the broker API. You define the strategy. NileFlow is here to execute 
 
 ## 🔑 What Makes It Unique?
 
-- 🧠 **LLM-Driven Decision Making**: Leverage modern AI (Claude or any LLM) to parse, evaluate, or react to signals.
-- 🔗 **MCP Server Backbone**: Light protocol layer for clean communication between logic and execution.
-- 🔌 **Broker-Agnostic Design**: Integrate *any* broker API — from Alpaca to Zerodha — the choice is yours.
-- ⚙️ **Modular, Beginner-Friendly Architecture**: Swap out components without breaking the flow.
-- 🧱 **Build-First Philosophy**: This isn't a drag-and-drop tool — it's your own customizable trading engine.
+-  **LLM-Driven Decision Making**: Leverage modern AI (Claude or any LLM) to parse, evaluate, or react to signals.
+-  **MCP Server Backbone**: Light protocol layer for clean communication between logic and execution.
+-  **Broker-Agnostic Design**: Integrate *any* broker API — from Alpaca to Zerodha — the choice is yours.
+-  **Modular, Beginner-Friendly Architecture**: Swap out components without breaking the flow.
+-  **Build-First Philosophy**: This isn't a drag-and-drop tool — it's your own customizable trading engine.
 
 ---
 
 ## 🛠️ Built With
 
 - Python 3
-- yFinance (for market data)
 - MCP Server (custom protocol handler)
 - Claude or any LLM (for strategy parsing)
 
@@ -56,8 +55,7 @@ This project is licensed under the **MIT License** — which means you're free t
 ## 🙌 A Word From the Creator
 
 > “NileFlow is my way of rethinking trading automation — not as a black-box service, but as an open, intelligent system that developers can trust and extend.  
-> I built it for myself, but it’s yours to shape now.” — Urooj Zahara Naqvi
-
+> I built it for myself, but it’s yours to shape now.” — Urooj
 ---
 
 ## 🌐 Connect
