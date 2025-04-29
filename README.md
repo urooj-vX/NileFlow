@@ -1,4 +1,4 @@
-🔁 NileFlow – Flow Into Smarter Trades
+### 🔁 NileFlow – Flow Into Smarter Trades
 Build-Ready Bot – Clone & Customize
 
 NileFlow is a clean, modular, and LLM-powered trading bot built with 🐍 Python and flexibility at its core. Whether you're automating your trading strategy or exploring AI-assisted decision-making, NileFlow gives you the tools — and the freedom — to do it your way.
