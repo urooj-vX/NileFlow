@@ -1,11 +1,11 @@
-# 🔁 NileFlow – Flow Into Smarter Trades  
+#  NileFlow – Flow Into Smarter Trades  
 **Build-Ready Bot ➡️ NileFlow – Clone & Customize**
 
 **NileFlow** is a clean, modular, and LLM-powered trading bot built with 🐍 Python and flexibility at its core. Whether you're automating your trading strategy or exploring AI-assisted decision-making, NileFlow gives you the tools — and the freedom — to do it your way.
 
 ---
 
-## ⚡ Why NileFlow?
+##  Why NileFlow?
 
 Trading automation tools often lock you into paid APIs or specific brokers.  
 **NileFlow** does the opposite. It’s **free**, **transparent**, and **broker-agnostic**.
@@ -17,7 +17,7 @@ You choose the broker API. You define the strategy. NileFlow is here to execute 
 
 ---
 
-## 🔑 What Makes It Unique?
+##  What Makes It Unique?
 
 -  **LLM-Driven Decision Making**: Leverage modern AI (Claude or any LLM) to parse, evaluate, or react to signals.
 -  **MCP Server Backbone**: Light protocol layer for clean communication between logic and execution.
@@ -27,7 +27,7 @@ You choose the broker API. You define the strategy. NileFlow is here to execute 
 
 ---
 
-## 🛠️ Built With
+##  Built With
 
 - Python 3
 - MCP Server (custom protocol handler)
@@ -35,7 +35,7 @@ You choose the broker API. You define the strategy. NileFlow is here to execute 
 
 ---
 
-## 🤝 Want to Contribute?
+##  Want to Contribute?
 
 1. **Fork** the repo  
 2. **Clone** it locally  
@@ -46,26 +46,26 @@ I'm actively welcoming collaborators who believe in open trading tools and AI-dr
 
 ---
 
-## 📜 License
+##  License
 
 This project is licensed under the **MIT License** — which means you're free to use, modify, and distribute it however you like. Just give credit where it’s due.
 
 ---
 
-## 🙌 A Word From the Creator
+##  A Word From the Creator
 
 > “NileFlow is my way of rethinking trading automation — not as a black-box service, but as an open, intelligent system that developers can trust and extend.  
 > I built it for myself, but it’s yours to shape now.” — Urooj
 ---
 
-## 🌐 Connect
+##  Connect
 
 If you’re a developer, AI enthusiast, or trader who believes in open, AI-integrated tooling — let’s connect!
 
-⭐ **Star** the repo  
-🍴 **Fork** it  
-💬 **Reach out**  
-📖 [Read the full blog post](#) from my portfolio to dive deeper into the project.
+ **Star** the repo  
+ **Fork** it  
+ **Reach out**  
+ [Read the full blog post](#) from my portfolio to dive deeper into the project.
 
 Let’s build the next-gen trading stack — together.
 
