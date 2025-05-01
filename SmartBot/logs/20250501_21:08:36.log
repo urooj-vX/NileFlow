@@ -1,0 +1,4 @@
+2025-05-01 21:08:36,744 - INFO: Something happened
+2025-05-01 21:08:36,744 - DEBUG: This is a debugging message!
+2025-05-01 21:08:36,744 - WARNING: Watch out!
+2025-05-01 21:08:36,744 - ERROR: Something went wrong
